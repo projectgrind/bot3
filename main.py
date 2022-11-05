@@ -1,7 +1,7 @@
 import lightbulb
 
 # Instantiate a Bot instance
-bot = lightbulb.BotApp(token="MTAzMDU2MDY5NDM5NzA0MjcxOA.G_B8wD.jhHmxb8SaKkm288u-1ss5V6vJbTRloIdaiJymg", prefix="$")
+bot = lightbulb.BotApp(token="MTAzNTE4MDIwMTgyODcwMDE2MA.GYxcQJ.YoAAlOzHEyKZ0AiVfXvp_tjH_gen62gDmsSUXM", prefix="$")
 
 # Register the command to the bot
 @bot.command
